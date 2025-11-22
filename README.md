@@ -323,8 +323,6 @@ The model consists of:
 ![Sample Predictions](sample_predictions.png)
 
 *Sample predictions on original test images with ground truth and predicted labels*
-- 🟢 **Green border** = Correct prediction
-- 🔴 **Red border** = Misclassification
 - Confidence scores shown for each prediction
 
 </div>
